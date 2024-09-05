@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\views\\account\\loginpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:views\\account\\loginpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\views\\account\\weeklytypedlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:views\\account\\weeklytypedlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\LoginPost.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LoginPost.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\LoginPost.cshtml",
+              "RelativeToolTip": "Views\\Account\\LoginPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:50:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeeklyTypedLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\WeeklyTypedLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\WeeklyTypedLogin.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\WeeklyTypedLogin.cshtml",
+              "RelativeToolTip": "Views\\Account\\WeeklyTypedLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:42:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:41:30.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
