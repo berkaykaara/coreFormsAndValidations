@@ -1,4 +1,4 @@
-﻿
+﻿@model coreFormsAndValidations.Models.LoginViewModel
 @{
     Layout = null;
 }
@@ -8,16 +8,16 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>WeeklyTypedLogin</title>
+    <title>StronglyTypedLogin</title>
 </head>
 <body>
-    @using(Html.BeginForm("LoginPost","Account",FormMethod.Post))
+    @using(Html.BeginForm("LoginSuccess", "Account", FormMethod.Post))
     {
         <div>
-            Username: @Html.TextBox("Username")
+            Username: @Html.TextBoxFor(m=>m.Username)
         </div>
         <div>
-            Password: @Html.TextBox("Password")
+            Password: @Html.PasswordFor(m=>m.Password)
         </div>
         <div>
             <input type="submit" value="Login" />

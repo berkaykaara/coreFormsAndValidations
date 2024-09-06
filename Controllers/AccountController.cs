@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using coreFormsAndValidations.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace coreFormsAndValidations.Controllers
 {
@@ -13,6 +14,17 @@ namespace coreFormsAndValidations.Controllers
         {
             ViewBag.Username = Username;
             ViewBag.Password = Password;
+            return View();
+        }
+        public IActionResult StronglyTypedLogin()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult LoginSuccess(LoginViewModel login)
+        {
+            ViewBag.Username = login.Username;
+            ViewBag.Password = login.Password;
             return View();
         }
     }
