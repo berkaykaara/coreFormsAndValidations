@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\views\\account\\stronglytypedlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:views\\account\\stronglytypedlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\views\\account\\loginsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:views\\account\\loginsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginSuccess.cshtml",
               "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\LoginSuccess.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\LoginSuccess.cshtml",
@@ -39,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -47,21 +43,7 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:21:00.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StronglyTypedLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\StronglyTypedLogin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\StronglyTypedLogin.cshtml",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\StronglyTypedLogin.cshtml",
-              "RelativeToolTip": "Views\\Account\\StronglyTypedLogin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T22:19:42.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T22:21:00.674Z"
             }
           ]
         }
