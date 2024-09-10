@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:views\\account\\loginsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\views\\account\\loginpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:views\\account\\loginpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreformsandvalidations\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD596A8F-5CA6-4AB8-82AF-F3FB8DC0262C}|coreFormsAndValidations.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:02:46.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\LoginPost.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LoginPost.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\LoginPost.cshtml",
+              "RelativeToolTip": "Views\\Account\\LoginPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T19:02:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:02:17.722Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +79,23 @@
               "RelativeDocumentMoniker": "Views\\Account\\LoginSuccess.cshtml",
               "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\LoginSuccess.cshtml",
               "RelativeToolTip": "Views\\Account\\LoginSuccess.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-06T22:23:24.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:21:00.674Z"
+              "WhenOpened": "2024-09-06T22:21:00.674Z",
+              "EditorCaption": ""
             }
           ]
         }
