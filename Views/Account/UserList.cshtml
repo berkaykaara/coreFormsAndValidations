@@ -1,0 +1,21 @@
+﻿@model IList<coreFormsAndValidations.Models.LoginViewModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserList</title>
+</head>
+<body>
+    <u1>
+    @foreach(var item in Model)
+    {
+        <li>@item.Username - @item.Password</li>
+    }
+    </u1>
+</body>
+</html>
