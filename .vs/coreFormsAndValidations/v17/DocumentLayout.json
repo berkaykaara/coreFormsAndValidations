@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Views\\Account\\Success.cshtml",
               "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\Success.cshtml",
               "RelativeToolTip": "Views\\Account\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-11T14:38:07.828Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Views\\Account\\GetAccount.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T14:31:52.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T14:31:52.522Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Models\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T14:26:20.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T14:26:20.728Z"
             },
             {
               "$type": "Document",
@@ -75,7 +73,7 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwFAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T22:21:00.674Z",
               "EditorCaption": ""
