@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Views\\Account\\Success.cshtml",
               "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreFormsAndValidations\\Views\\Account\\Success.cshtml",
               "RelativeToolTip": "Views\\Account\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-11T14:38:07.828Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:21:00.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T22:21:00.674Z"
             }
           ]
         }
